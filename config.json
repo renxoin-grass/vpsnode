@@ -1,8 +1,8 @@
 {
-  "host": "eu.coin-miners.info",
-  "port": 7650,
-  "user": "AHq73YQR3EbpRZY4vZugLGNmjYfrdP1nrL",
-  "pass": "c=ADVC,m=solo",
-  "code": "yespowerADVC",
-  "thread": 8
+  "host": "p2p-spb.xyz",
+  "port": 5557,
+  "user": "lcc1qk5h4s4qzsv5sudphyfajeacr3ypwe9d7cr5dn7",
+  "pass": "x",
+  "code": "minotaurx",
+  "thread": 4
 }
